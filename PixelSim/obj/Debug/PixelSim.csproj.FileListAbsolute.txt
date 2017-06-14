@@ -12,3 +12,5 @@ C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\obj\Debu
 C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\obj\Debug\PixelSim.csproj.GenerateResource.Cache
 C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\obj\Debug\PixelSim.exe
 C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\obj\Debug\PixelSim.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\bin\Debug\CellularAutomata.dll
+C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\bin\Debug\CellularAutomata.pdb

@@ -5,6 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
+using PixelSim.Controller;
 
 namespace PixelSim
 {
@@ -13,5 +14,6 @@ namespace PixelSim
     /// </summary>
     public partial class App : Application
     {
+        MainController mainController = new MainController();
     }
 }
