@@ -1,0 +1,14 @@
+c:\users\jeremy\documents\visual studio 2015\Projects\PixelSim\PixelSim\bin\Debug\PixelSim.exe.config
+C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\bin\Debug\PixelSim.exe
+C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\bin\Debug\PixelSim.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\obj\Debug\PixelSim.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\obj\Debug\MainWindow.g.cs
+C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\obj\Debug\App.g.cs
+C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\obj\Debug\PixelSim_MarkupCompile.cache
+C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\obj\Debug\PixelSim_MarkupCompile.lref
+C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\obj\Debug\MainWindow.baml
+C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\obj\Debug\PixelSim.g.resources
+C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\obj\Debug\PixelSim.Properties.Resources.resources
+C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\obj\Debug\PixelSim.csproj.GenerateResource.Cache
+C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\obj\Debug\PixelSim.exe
+C:\Users\Jeremy\Documents\Visual Studio 2015\Projects\PixelSim\PixelSim\obj\Debug\PixelSim.pdb
